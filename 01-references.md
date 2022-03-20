@@ -63,6 +63,13 @@ He guards the library.
 >
 > a wrinkled bonelord: Our books are written in 469, of course you can't understand them.
 
+> Player: 469
+> 
+> a wrinkled bonelord: The language of my kind. Superior to any other language and only to be spoken by entities with enough eyes to blink it.
+
+> Player: language
+> 
+> a wrinkled bonelord: Our language is beyond comprehension by your lesser beings. It heavily relies on mathemagic. Your brain is not suited for the mathemagical processing necessary to understand our language.To decipher even our most basic texts, it would need a genius that can calculate numbers within seconds in his brain.
 
 > Player: numbers
 >
@@ -80,30 +87,29 @@ He guards the library.
 >
 > a wrinkled bonelord: Go and wash your eyes for using this obscene number!
 
-> Player: 469
-> 
-> a wrinkled bonelord: The language of my kind. Superior to any other language and only to be spoken by entities with enough eyes to blink it.
-
 > Player: bonelord
 > 
 > a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a complex formula, and as such it always changes for the subjective viewer.
 
-> Player: language
-> 
-> a wrinkled bonelord: Our language is beyond comprehension by your lesser beings. It heavily relies on mathemagic. Your brain is not suited for the mathemagical processing necessary to understand our language.To decipher even our most basic texts, it would need a genius that can calculate numbers within seconds in his brain.
 
 Mathemagic is used in Paradox tower quest. In this quest we learn the secrets of mathmagics by the mad mage. Paradox tower also contain a direct teleport to Hellgate.
 
 Mathemagic:
+
 1+1 = 1
+
 1+1 = 13
+
 1+1 = 49
+
 1+1 = 94
 
 ## [Wydrin](https://tibia.fandom.com/wiki/Wyrdin)
 "<mutters> Could the language of bonelords be the invention of some madman?"
  
-## [Can we blink it?](https://imgur.com/3342R8F)
+## Can we blink it?
+
+[Image](https://imgur.com/3342R8F)
 
 ## FB Post
 Mirrored [Image](https://imgur.com/gm1Vvfu) released on official Tibia facebook.
@@ -193,20 +199,23 @@ e=3m*2g+3p
 ```
 
 Where:
-4315 appears in the books, 431 appears in facebook post. 43153 does not appear in books.
+4315 appears in the books, 431 maybe appear in facebook post. 43153 does not appear in books.
 
 3478 appears in the books, said by Knightmare NPC, and the name of a nostaliga bonelord. Could translate into 'beholder'.
 
 Each section (1,2,3,4,5).(1,2,3,4,5) contains five numbers. One number for each eye when 'blinking' it?
+
 What does the fifth number do, and why does it not appear in the bonelord books? 
 It could be an important number for understanding 469.
+
 It could be that the formula is not completed yet, because honeminas itself died.
 
 In the hellgate books, 3478 is followed by either 0 or 3, where 0 occurs the most.
 
 4315 is followed by 1.
 
-The completed formula could then be
+The completed formula could then be:
+
 (4,3,1,5,1).(3,4,7,8,0) OR (4,3,1,5,1).(3,4,7,8,3)
 
 There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona_Library)
