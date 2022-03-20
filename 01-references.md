@@ -109,12 +109,14 @@ Mathemagic:
  
 ## Can we blink it?
 
-![Image](https://imgur.com/3342R8F)
+![Image](https://user-images.githubusercontent.com/25346191/159171793-b59687e5-3740-4488-9c22-848e421a2beb.png)
 
 ## FB Post
-Mirrored ![Image](https://imgur.com/gm1Vvfu) released on official Tibia facebook.
+Mirrored ![image](https://user-images.githubusercontent.com/25346191/159171824-5b4c34af-da8a-48b1-a793-f216eae2a9c3.png) released on official Tibia facebook.
 
-When ![reversed](https://imgur.com/kWxonY8) we find these numbers
+
+When ![Reversed](https://user-images.githubusercontent.com/25346191/159171853-9f756942-fe87-4dd9-b87a-d483adf09e74.png) we find these numbers:
+
 
 ```
  713            473             | 
@@ -123,7 +125,7 @@ When ![reversed](https://imgur.com/kWxonY8) we find these numbers
  824            499             |
  975            595             |
  937            X30             | X = 5?            530
- 726            XY1             | X = 4? Y = 3?     431 (441 don't appear in book)
+ 726            XY1             | X = 4? Y = 3?     431 (441 don't appear in book), can also be 451.
  729            X47 [1c?]       | X = 4?            447
  652            400             |
  653            407             |
@@ -156,7 +158,7 @@ This is true for 26/28 "pairs". This means that the numbers are in a deliberate 
 The number on the left seems to be 1.5x~ of that on the number to the right.
 
 As the numbers are mirrored, it could be a reference that when bonelords talk/blink, they see the other 'blink' the numbers mirrored.
-There is also a [mirrored room](https://imgur.com/IRWwDA9) in paradox tower of 469's creator, this room contains books that *could* be the cipher for 469.
+There is also a [mirrored room](https://imgur.com/IRWwDA9) in paradox tower of 469s creator, this room contains books that *could* be the cipher for 469.
 
 [Book](https://tibia.fandom.com/wiki/Ljkhbl_Nilse_(Book)):
 
