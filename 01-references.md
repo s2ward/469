@@ -11,18 +11,23 @@ A: "114514519485611451908304576512282177 :) 6612527570584 xD"
 These sentences don't seem to appear much in the hellgate books. Avar tar is known for bragging and telling lies, so I do not think that this is true nor relevant
 
 > Avar Tar: 29639 46781! 9063376290 3222011 677 80322429 67538 14805394, 6880326 677 63378129 337011 72683 149630 4378! 453 639 578300 986372 2953639!
+
 > Avar Tar: I know it's rather short, but still, this poem I like best.
 
 ## [The Evil Eye](https://tibia.fandom.com/wiki/The_Evil_Eye)
 
 Inferior creatures, bow before my power! 
+
 653768764!
 
 ## [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord)
 
 Inferior creatures, bow before my power!
+
 Let me take a look at you!
+
 659978 54764!
+
 653768764!
 
 ## [15.04.2020 poll](https://www.tibia.com/community/?subtopic=polls&page=show&questionaireid=1009)
@@ -38,36 +43,53 @@ A:
 01110010 00101110
 ```
 B:	BOQOT" O(J-"L J-T )^X" XU-T )T JT(O~X°
+
 C:	663 902073 7223 67538 467 80097
 
 A: These aren’t the words you’re looking for.
+
 B: (Deepling’s language)
+
 Pronunciation: Roqoh oljent jeh dakn kweh dh jhlosk!
+
 Meaning: Nonbelievers defy the narrow path to undersea!
+
 C: ???
 
 ## [A Wrinkled Bonelord](https://tibia.fandom.com/wiki/A_Wrinkled_Bonelord) - Hellgate Librarian
 He guards the library.
 
 > Player: books
+>
 > a wrinkled bonelord: Our books are written in 469, of course you can't understand them.
 
 
 > Player: numbers
+>
 > a wrinkled bonelord: Numbers are essential. They are the secret behind the scenes. If you are a master of mathematics you are a master over life and death.
 
 > Player: name
+>
 > a wrinkled bonelord: I'm 486486 and NOT 'Blinky' as some people called me ... before they died. So don't ... confuse your numbers, as my kind says.
+
 > Player: Tibia
+>
 > a wrinkled bonelord: It's 1, not 'Tibia', silly.
+
 > Player: 0
+>
 > a wrinkled bonelord: Go and wash your eyes for using this obscene number!
+
 > Player: 469
+> 
 > a wrinkled bonelord: The language of my kind. Superior to any other language and only to be spoken by entities with enough eyes to blink it.
 
 > Player: bonelord
+> 
 > a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a complex formula, and as such it always changes for the subjective viewer.
+
 > Player: language
+> 
 > a wrinkled bonelord: Our language is beyond comprehension by your lesser beings. It heavily relies on mathemagic. Your brain is not suited for the mathemagical processing necessary to understand our language.To decipher even our most basic texts, it would need a genius that can calculate numbers within seconds in his brain.
 
 Mathemagic is used in Paradox tower quest. In this quest we learn the secrets of mathmagics by the mad mage. Paradox tower also contain a direct teleport to Hellgate.
@@ -189,6 +211,10 @@ The completed formula could then be
 
 There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona_Library)
 
+> Player: bonelord
+> 
+> a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a complex formula, and as such it always changes for the subjective viewer.
+
 ## [Hellgate Library](https://tibia.fandom.com/wiki/Hellgate_Library)
 
 ```
@@ -267,8 +293,11 @@ There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona
 
 ## [Isle of Kings Library](https://tibia.fandom.com/wiki/Isle_of_the_Kings_Library)
 - This book is a copy of a book found in Hellgate.
+```
 65128896721277889438872151288952196180031145727857261185764219709680579636612527570584521765219727830464876515956461141451988997511216151
-
+```
 ## [Kharos Library](https://tibia.fandom.com/wiki/Liberty_Bay_Libraries#Kharos)
 - Ferumbras Citadel.
+```
 51595646114145190584521765219727830464879636612527578967212778894388727857261185764217614588952196180031651288899751121615127215196805970
+```
