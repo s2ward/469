@@ -109,12 +109,12 @@ Mathemagic:
  
 ## Can we blink it?
 
-[Image](https://imgur.com/3342R8F)
+![Image](https://imgur.com/3342R8F)
 
 ## FB Post
-Mirrored [Image](https://imgur.com/gm1Vvfu) released on official Tibia facebook.
+Mirrored ![Image](https://imgur.com/gm1Vvfu) released on official Tibia facebook.
 
-When [reversed](https://imgur.com/kWxonY8), we find these numbers
+When ![reversed](https://imgur.com/kWxonY8) we find these numbers
 
 ```
  713            473             | 
