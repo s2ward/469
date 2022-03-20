@@ -112,10 +112,12 @@ Mathemagic:
 ![Image](https://user-images.githubusercontent.com/25346191/159171793-b59687e5-3740-4488-9c22-848e421a2beb.png)
 
 ## FB Post
-Mirrored ![image](https://user-images.githubusercontent.com/25346191/159171824-5b4c34af-da8a-48b1-a793-f216eae2a9c3.png) released on official Tibia facebook.
+Mirrored image released on official Tibia facebook.
+![image](https://user-images.githubusercontent.com/25346191/159171824-5b4c34af-da8a-48b1-a793-f216eae2a9c3.png)
 
 
-When ![Reversed](https://user-images.githubusercontent.com/25346191/159171853-9f756942-fe87-4dd9-b87a-d483adf09e74.png) we find these numbers:
+When reversed we find these numbers:
+![Reversed](https://user-images.githubusercontent.com/25346191/159171853-9f756942-fe87-4dd9-b87a-d483adf09e74.png)
 
 
 ```
@@ -225,6 +227,10 @@ There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona
 > Player: bonelord
 > 
 > a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a complex formula, and as such it always changes for the subjective viewer.
+
+| :exclamation:  Notice!   |
+|-----------------------------------------|
+Notice how these numbers are in pairs, exactly like in the facebook post.. where 43153 (the left number) is bigger than the right number 34783
 
 ## [Hellgate Library](https://tibia.fandom.com/wiki/Hellgate_Library)
 
