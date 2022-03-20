@@ -8,14 +8,14 @@ Q: "What about the Beholder language? People are dying to understand it. What yo
 A: "114514519485611451908304576512282177 :) 6612527570584 xD"
 
 ## Avar Tar
-- These sentences don't seem to appear much in the hellgate books. Avar tar is known for bragging and telling lies, so I do not think that this is true nor relevant
+These sentences don't seem to appear much in the hellgate books. Avar tar is known for bragging and telling lies, so I do not think that this is true nor relevant
 
-Avar Tar: 29639 46781! 9063376290 3222011 677 80322429 67538 14805394, 6880326 677 63378129 337011 72683 149630 4378! 453 639 578300 986372 2953639! 
-Avar Tar: I know it's rather short, but still, this poem I like best.
+> Avar Tar: 29639 46781! 9063376290 3222011 677 80322429 67538 14805394, 6880326 677 63378129 337011 72683 149630 4378! 453 639 578300 986372 2953639!
+> Avar Tar: I know it's rather short, but still, this poem I like best.
 
 ## [The Evil Eye](https://tibia.fandom.com/wiki/The_Evil_Eye)
 
-Inferior creatures, bow before my power!
+Inferior creatures, bow before my power! 
 653768764!
 
 ## [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord)
@@ -28,6 +28,7 @@ Let me take a look at you!
 ## [15.04.2020 poll](https://www.tibia.com/community/?subtopic=polls&page=show&questionaireid=1009)
 
 When the veils of shrouded truths are lifted, who can stand?
+
 A:	
 ```
 01010100 01101000 01100101 01110011 01100101 00100000 01100001 01110010 01100101 01101110 
@@ -70,6 +71,12 @@ He guards the library.
 > a wrinkled bonelord: Our language is beyond comprehension by your lesser beings. It heavily relies on mathemagic. Your brain is not suited for the mathemagical processing necessary to understand our language.To decipher even our most basic texts, it would need a genius that can calculate numbers within seconds in his brain.
 
 Mathemagic is used in Paradox tower quest. In this quest we learn the secrets of mathmagics by the mad mage. Paradox tower also contain a direct teleport to Hellgate.
+
+Mathemagic:
+1+1 = 1
+1+1 = 13
+1+1 = 49
+1+1 = 94
 
 ## [Wydrin](https://tibia.fandom.com/wiki/Wyrdin)
 "<mutters> Could the language of bonelords be the invention of some madman?"
@@ -184,6 +191,7 @@ There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona
 
 ## [Hellgate Library](https://tibia.fandom.com/wiki/Hellgate_Library)
 
+```
 956151353478019288952160199364672431427894315191186512819118003561147261164671364646121978585765197292197278167054671180014015255175191180189445
 22953452744647261145145194856114519083045765122821773508434856284770908895243485611216480065
 867563561145191991180036468895219911036512889672127788943887215128895219618003114572785726118576421970968057963661252757058452176521972783046487651595646114145198899751121615180
@@ -255,6 +263,7 @@ There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona
 62847709088952434856112164800658675635611451919911800364688952199110365128896721277889438872151288
 61143128895003624968475601996585506499670467261145800369042204648451911889521977128895219594576552364672119118003575765460036467118001401525517
 34856251081146364672435345158604215857744545190450421595615135347801928895216019936467243142789431519118651281911800356114726116467136464612
+```
 
 ## [Isle of Kings Library](https://tibia.fandom.com/wiki/Isle_of_the_Kings_Library)
 - This book is a copy of a book found in Hellgate.
