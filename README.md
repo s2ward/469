@@ -9,10 +9,10 @@ I start off by showing you what we can find in-game, and further down I will sho
 
 Each line is one book. 
 
-01-books.md contains the books we find on 469.
-02-align.txt contains the books aligned with repeats (by Trikki Rikki)
-03-align.txt contains the books aligned more in sequences (continued by me)
-04-align.txt contains the books close to being a full sequence.
+- 01-books.md contains the books we find on 469.
+- 02-align.txt contains the books aligned with repeats (by Trikki Rikki)
+- 03-align.txt contains the books aligned more in sequences (continued by me)
+- 04-align.txt contains the books close to being a full sequence.
 
 If you are on mobile, you might want to disable line-wrapping, otherwise the *align.txt will look like jibberish to you.
 
