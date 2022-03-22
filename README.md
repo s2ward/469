@@ -291,8 +291,11 @@ In 04-align.txt, no book has been rearranged. But it might be worth it to create
 
 I am using [Visual Studio Code](https://code.visualstudio.com/), and then i highlight a sequence to see where other occurences appear.
 I use CTRL + F to search a sequence to highlight and lock it in while i highlight other sequences with the cursor. This allows me to keep track of what i'm doing.
-Any sequence on the same line within [brackets] are a sequence within that line that appears in other lines.
+Any sequence on the same line within [brackets] are a sequence within that line that appears in other lines. This is used to keep track of sequences.
+ 
+Here i have ctrl+f a sequnce appearing in orange, and highlighted a sequence that appear in grey.
 
+![5DxTdCi](https://user-images.githubusercontent.com/25346191/159548231-3d05ba02-2bec-4566-a2c2-8b54a63e2ddd.png)
 
 ## [Hellgate Library](https://tibia.fandom.com/wiki/Hellgate_Library)
 
