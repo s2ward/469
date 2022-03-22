@@ -16,6 +16,10 @@ Each line is one book.
 
 If you are on mobile, you might want to disable line-wrapping, otherwise the *align.txt will look like jibberish to you.
 
+## Can we blink it?
+
+![Image](https://user-images.githubusercontent.com/25346191/159171793-b59687e5-3740-4488-9c22-848e421a2beb.png)
+
 ## Knightmare NPC
 3478 67 90871 97664 3466 0 345!
 
@@ -128,10 +132,6 @@ This sequence appears in tetranacci sequence.
 
 ## [Wydrin](https://tibia.fandom.com/wiki/Wyrdin)
 "<mutters> Could the language of bonelords be the invention of some madman?"
- 
-## Can we blink it?
-
-![Image](https://user-images.githubusercontent.com/25346191/159171793-b59687e5-3740-4488-9c22-848e421a2beb.png)
 
 ## FB Post
 Mirrored image released on official Tibia facebook.
