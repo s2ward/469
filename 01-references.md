@@ -46,6 +46,8 @@ B:	BOQOT" O(J-"L J-T )^X" XU-T )T JT(O~X°
 
 C:	663 902073 7223 67538 467 80097
 
+---
+
 A: These aren’t the words you’re looking for.
 
 B: (Deepling’s language)
@@ -96,13 +98,15 @@ Mathemagic is used in Paradox tower quest. In this quest we learn the secrets of
 
 Mathemagic:
 
-1+1 = 1
+1 + 1 = 1
 
-1+1 = 13
+1 + 1 = 13
 
-1+1 = 49
+1 + 1 = 49
 
-1+1 = 94
+1 + 1 = 94
+
+This sequence appears in tetranacci sequence. 
 
 ## [Wydrin](https://tibia.fandom.com/wiki/Wyrdin)
 "<mutters> Could the language of bonelords be the invention of some madman?"
@@ -119,7 +123,6 @@ Mirrored image released on official Tibia facebook.
 When reversed we find these numbers:
 ![Reversed](https://user-images.githubusercontent.com/25346191/159171853-9f756942-fe87-4dd9-b87a-d483adf09e74.png)
 
-
 ```
  713            473             | 
  765            464             | 
@@ -127,7 +130,7 @@ When reversed we find these numbers:
  824            499             |
  975            595             |
  937            X30             | X = 5?            530
- 726            XY1             | X = 4? Y = 3?     431 (441 don't appear in book), can also be 451.
+ 726            XY1             | X = 4? Y = 3?     431 (441 don't appear in book)
  729            X47 [1c?]       | X = 4?            447
  652            400             |
  653            407             |
@@ -140,7 +143,7 @@ When reversed we find these numbers:
  648            428             |
  818            520             |
  985            621             |
- 2154          1307             |
+2154           1307             |
  841            540             |
  71X            471             |
  75X            489             |
@@ -158,9 +161,10 @@ A pattern can be found, each time the number on the left column increases, the n
 This is true for 26/28 "pairs". This means that the numbers are in a deliberate sequence. And the value of "X" can be quite reliably estimated.
 
 The number on the left seems to be 1.5x~ of that on the number to the right.
+I think this is why they tried to hide some of the numbers on the right with the clay-figure.
 
 As the numbers are mirrored, it could be a reference that when bonelords talk/blink, they see the other 'blink' the numbers mirrored.
-There is also a [mirrored room](https://imgur.com/IRWwDA9) in paradox tower of 469s creator, this room contains books that *could* be the cipher for 469.
+There is also a [mirrored room](https://imgur.com/IRWwDA9) in paradox tower of 469's creator, this room contains books that *could* be the cipher for 469.
 
 [Book](https://tibia.fandom.com/wiki/Ljkhbl_Nilse_(Book)):
 
@@ -189,6 +193,12 @@ klhi igbb
 
 9 rows, 11 sections.
 
+Notice how these sections have similar spacing and # of characters as 469 
+
+From poll: "C:	663 902073 7223 67538 467 80097"
+
+Knightmare: "3478 67 90871 97664 3466 0 345!"
+
 ## Demona & honeminas formula
 
 Warlocks of Demona had a bonelord called '[honeminas](https://tibia.fandom.com/wiki/The_Honeminas_Formula_(Book))' who created formulae for understanding the magic web.
@@ -203,24 +213,29 @@ e=3m*2g+3p
 ```
 
 Where:
-4315 appears in the books, 431 maybe appear in facebook post. 43153 does not appear in books.
 
-3478 appears in the books, said by Knightmare NPC, and the name of a nostaliga bonelord. Could translate into 'beholder'.
+- 4315 appears in the books, 431 maybe appear in facebook post. 43153 does not appear in books.
 
-Each section (1,2,3,4,5).(1,2,3,4,5) contains five numbers. One number for each eye when 'blinking' it?
+- 3478 appears in the books, said by Knightmare NPC, and the name of a nostaliga bonelord. *could* translate into 'beholder'.
+
+- Each section (1,2,3,4,5).(1,2,3,4,5) contains five numbers. One number for each eye when 'blinking' it?
 
 What does the fifth number do, and why does it not appear in the bonelord books? 
 It could be an important number for understanding 469.
 
-It could be that the formula is not completed yet, because honeminas itself died.
+### It could be that the formula is not completed yet, because honeminas itself died.
 
-In the hellgate books, 3478 is followed by either 0 or 3, where 0 occurs the most.
+- In the hellgate books, 3478 is followed by either 0 or 3, where 0 occurs the most.
 
-4315 is followed by 1.
+- 4315 is followed by 1.
 
-The completed formula could then be:
+The completed formula *could* then be:
 
-(4,3,1,5,1).(3,4,7,8,0) OR (4,3,1,5,1).(3,4,7,8,3)
+- (4,3,1,5,1).(3,4,7,8,0) OR (4,3,1,5,1).(3,4,7,8,3)
+
+This, in itself looks liek the dot product of two vectors, talking of coordinates on a 2-dimensional plane. Could it be indicating a letter on the two 'jibberish' books?
+
+https://www.wolframalpha.com/input?i=%284%2C3%2C1%2C5%2C3%29.%283%2C4%2C7%2C8%2C4%29
 
 There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona_Library)
 
@@ -231,6 +246,35 @@ There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona
 | :exclamation:  Notice!   |
 |-----------------------------------------|
 Notice how these numbers are in pairs, exactly like in the facebook post.. where 43153 (the left number) is bigger than the right number 34783
+
+## Secret Library book
+
+```
+74032 45331 
+```
+
+Notice again, how these came in pairs, with left number being bigger than the right number. (honeminas formula looks crucial)
+
+## My thoughts
+
+Something has to be done to numbers that comes in pairs (be it dot product of vectors as in honeminas formula or smth else)
+This then could give something that indicates a letter on the jibberish books. (e.g. something along the lines of 4th row, 2nd column, 3rd letter...)
+
+We also see in 04-align.txt that the sequences found in hellgate library seems to be just one large sequence that you can puzzle together. 
+It looks like the creator of 469 and the hellgate books have scrambled some books to cause entropy, it also looks like a single number has been removed in a handful of the books - making all previous bruteforce attempts invalid.
+
+With one book (vs 72) we can more easily find patterns in 'the sequence'.
+
+We can also see what has been done to the books, some has been scrambled good, while others have just been halved and switched sides.
+
+In 04-align.txt, no book has been rearranged. But it might be worth it to create a .txt where we rearrange some books so that the natural pattern gets more visible. (reduce entropy)
+
+## Testing on your own
+
+I am using [Visual Studio Code](https://code.visualstudio.com/), and then i highlight a sequence to see where other occurences appear.
+I use CTRL + F to search a sequence to highlight and lock it in while i highlight other sequences with the cursor. This allows me to keep track of what i'm doing.
+Any sequence on the same line within [brackets] are a sequence within that line that appears in other lines.
+
 
 ## [Hellgate Library](https://tibia.fandom.com/wiki/Hellgate_Library)
 
