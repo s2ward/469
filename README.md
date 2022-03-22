@@ -182,7 +182,10 @@ The number on the left seems to be 1.5x~ of that on the number to the right.
 I think this is why they tried to hide some of the numbers on the right with the clay-figure.
 
 As the numbers are mirrored, it could be a reference that when bonelords talk/blink, they see the other 'blink' the numbers mirrored.
-There is also a [mirrored room](https://imgur.com/IRWwDA9) in paradox tower of 469's creator, this room contains books that *could* be the cipher for 469.
+There is also a mirrored room in paradox tower of 469s creator, this room contains books that *could* be the cipher for 469.
+                        
+![image](https://user-images.githubusercontent.com/25346191/159554352-c4377a0d-4478-4832-a3b9-6311265c5098.png)
+
 
 [Book](https://tibia.fandom.com/wiki/Ljkhbl_Nilse_(Book)):
 
