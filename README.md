@@ -91,10 +91,10 @@ He guards the library.
 > A Wrinkled Bonelord: 485611800364197.  
 > A Wrinkled Bonelord: 78572611857643646724.
 
-> Player: books 
+> Player: books  
 > a wrinkled bonelord: Our books are written in 469, of course you can't understand them.
 
-> Player: 469 
+> Player: 469  
 > a wrinkled bonelord: The language of my kind. Superior to any other language and only to be spoken by entities with enough eyes to blink it.
 
 > Player: language  
@@ -279,8 +279,8 @@ The only pair that is not plotting like the other pairs is (1280, 625), and this
 > a wrinkled bonelord: Go and wash your eyes for using this obscene number!
 
 Looking further at the 0, we also have two pairs where the right number is 447.  
-A: (706, 447)  
-B: (689, 447)
+- A: (706, 447)  
+- B: (689, 447)
 
 706 is bigger than 689, but 706 contains a zero.
 
@@ -288,8 +288,8 @@ This seems to suggest that multiplication is involved - which makes sense when w
 
 Two other interesting pairs are:
 
-A: (652, 400)  
-B: (653, 407)
+- A: (652, 400)  
+- B: (653, 407)
 
 When '2' -> '3', right number goes up by 7.
 
@@ -333,7 +333,7 @@ Here i have ctrl+f a sequnce appearing in orange, and highlighted a sequence tha
 
 > It was me who assisted the great calculator to assemble the bonelords language.
 
-Notice, '*the* great calculator' is a being rather than machine.  
+Notice, '*the* great calculator' is a being rather than machine. (a wrinkled bonelord?)  
 The person writing that book is thought to be the mad mage, who teaches us mathmagics, who created the paradox tower which has a direct teleport to Hellgate.
 
 
