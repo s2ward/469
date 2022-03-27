@@ -277,6 +277,8 @@ Cip has again and again thrown hints that 469 comes in pairs, with left number b
 Plotting the pairs from facebook post shows that all of them follow a pattern, otherwise the dots would not be close to the line on picture.  
 The only pair that is not plotting like the other pairs is (1280, 625), and this is the only pair where the left number ends with a 0. 
  
+ Each pair is processed liked (x, y), and each dot represents one pair.
+ 
 ![image](https://user-images.githubusercontent.com/25346191/160277492-d4f8b499-ecc6-4051-93eb-16389c64e080.png)
 
 > Player: 0  
