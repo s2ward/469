@@ -1,20 +1,27 @@
 # 469
 
-469 is a language found in Tibia. Created in 2001, it's about 21 years old and still have not been solved.
+469 is a language found in Tibia. Created in 2001, it's about 21 years old and still have not been solved.  
 469 is spoken between bonelords, a blob with 5 eyes. This is performed by blinking numbers.
 
-Here I have collected all clues i think we need to solve 469.
+Excerpt from a book in Tibia: [Beware of the Bonelords](https://tibia.fandom.com/wiki/Beware_of_the_Bonelords_(Book))  
+
+> The bonelords are an ancient race of underground dwelling necromancers. Although they can 'speak' like humans using some membranes, their native 'tongue' consists of a blinking code with each eye, where a blinking could mean some syllable, letter or word. It is by far the most complex speech we have ever encountered and it is almost impossible to comprehend. As far as we can tell it is not only a language but also some kind of mathematics. This combination makes it tedious even to try to understand that language.  
+> The books the bonelords write contain only numbers and the code behind them is incredibly complex. This race was one of those which were part in the creation wars and therefore its peak of civilization and power is long gone. There are rumours about still existent bonelord settlements where they try to improve their unspeakable necromantic rituals and create an army of undead.
+
+The main city of the current bonelords, Hellgate - contains a library holding 72 books, all in numbers. See books [here](01-books.md) where each line contains one book.  
+Here we meet A Wrinkled Bonelord, the librarian. We can talk to it to get more information.
+
+Here I have collected all clues I think we need to solve 469.
 
 I start off by showing you what we can find in-game, and further down I will show you some of my thoughts.
 
-Each line is one book. 
-
 - 01-books.md contains the books we find on 469.
-- 02-align.txt contains the books aligned with repeats (by Trikki Rikki)
-- 03-align.txt contains the books aligned more in sequences (continued by me)
-- 04-align.txt contains the books close to being a full sequence.
+- 02-align.txt: aligned with repeats (by Trikki Rikki)
+- 03-align.txt: aligned in slightly longer sequences (continued by me)
+- 04-align.txt: close to being a full sequence. (50~ hours in)
+- 05-rearrange.txt we carefully start rearranging some books.
 
-If you are on mobile, you might want to disable line-wrapping, otherwise the *align.txt will look like jibberish to you.
+If you are on mobile you might want to disable line-wrapping, otherwise the .txt will look like jibberish to you.
 
 ## Can we blink it?
 
@@ -25,6 +32,8 @@ If you are on mobile, you might want to disable line-wrapping, otherwise the *al
 
 ## [Chayenne reply](https://forum.portaltibia.com.br/topic/11420-entrevista-com-chayenne/?tab=comments#comment-142246)
 
+Interview in 2009 with a content designer:
+
 Q: "What about the Beholder language? People are dying to understand it. What you can say about it?"
 
 A: "114514519485611451908304576512282177 :) 6612527570584 xD"
@@ -32,8 +41,7 @@ A: "114514519485611451908304576512282177 :) 6612527570584 xD"
 ## Avar Tar
 These sentences don't seem to appear much in the hellgate books. Avar tar is known for bragging and telling lies, so I do not think that this is true 469 nor relevant
 
-> Avar Tar: 29639 46781! 9063376290 3222011 677 80322429 67538 14805394, 6880326 677 63378129 337011 72683 149630 4378! 453 639 578300 986372 2953639!
-
+> Avar Tar: 29639 46781! 9063376290 3222011 677 80322429 67538 14805394, 6880326 677 63378129 337011 72683 149630 4378! 453 639 578300 986372 2953639!  
 > Avar Tar: I know it's rather short, but still, this poem I like best.
 
 ## [The Evil Eye](https://tibia.fandom.com/wiki/The_Evil_Eye)
@@ -54,7 +62,7 @@ Let me take a look at you!
 
 ## [15.04.2020 poll](https://www.tibia.com/community/?subtopic=polls&page=show&questionaireid=1009)
 
-When the veils of shrouded truths are lifted, who can stand?
+> **When the veils of shrouded truths are lifted, who can stand?**
 
 A:	
 ```
@@ -64,69 +72,59 @@ A:
 01101100 01101111 01101111 01101011 01101001 01101110 01100111 00100000 01100110 01101111
 01110010 00101110
 ```
-B:	BOQOT" O(J-"L J-T )^X" XU-T )T JT(O~X°
-
+B:	BOQOT" O(J-"L J-T )^X" XU-T )T JT(O~X°  
 C:	663 902073 7223 67538 467 80097
 
 ---
 
 A: These aren’t the words you’re looking for.
 
-B: (Deepling’s language)
-
-Pronunciation: Roqoh oljent jeh dakn kweh dh jhlosk!
-
-Meaning: Nonbelievers defy the narrow path to undersea!
+B: (Deepling’s language)  
+Pronounciation: Roqoh oljent jeh dakn kweh dh jhlosk!  
+Meaning:        Nonbelievers defy the narrow path to undersea!  
 
 C: ???
 
 ## [A Wrinkled Bonelord](https://tibia.fandom.com/wiki/A_Wrinkled_Bonelord) - Hellgate Librarian
 He guards the library.
 
-> Player: books
->
+> A Wrinkled Bonelord: 485611800364197.  
+> A Wrinkled Bonelord: 78572611857643646724.
+
+> Player: books 
 > a wrinkled bonelord: Our books are written in 469, of course you can't understand them.
 
-> Player: 469
-> 
+> Player: 469 
 > a wrinkled bonelord: The language of my kind. Superior to any other language and only to be spoken by entities with enough eyes to blink it.
 
-> Player: language
-> 
+> Player: language  
 > a wrinkled bonelord: Our language is beyond comprehension by your lesser beings. It heavily relies on mathemagic. Your brain is not suited for the mathemagical processing necessary to understand our language.To decipher even our most basic texts, it would need a genius that can calculate numbers within seconds in his brain.
 
-> Player: numbers
->
+> Player: numbers  
 > a wrinkled bonelord: Numbers are essential. They are the secret behind the scenes. If you are a master of mathematics you are a master over life and death.
 
-> Player: name
->
+> Player: name  
 > a wrinkled bonelord: I'm 486486 and NOT 'Blinky' as some people called me ... before they died. So don't ... confuse your numbers, as my kind says.
 
-> Player: Tibia
->
+> Player: Tibia  
 > a wrinkled bonelord: It's 1, not 'Tibia', silly.
 
-> Player: 0
->
+> Player: 0  
 > a wrinkled bonelord: Go and wash your eyes for using this obscene number!
 
-> Player: bonelord
-> 
+> Player: bonelord  
 > a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a complex formula, and as such it always changes for the subjective viewer.
 
 
-Mathemagic is used in Paradox tower quest. In this quest we learn the secrets of mathmagics by the mad mage. Paradox tower also contain a direct teleport to Hellgate.
+Mathemagic is used in Paradox tower quest. In this quest we learn the secrets of mathmagics by the mad mage.  
+Paradox tower also contain a direct teleport to Hellgate.
 
 Mathemagic:
 
-1 + 1 = 1
-
-1 + 1 = 13
-
-1 + 1 = 49
-
-1 + 1 = 94
+1 + 1 = 1  
+1 + 1 = 13  
+1 + 1 = 49  
+1 + 1 = 94  
 
 This sequence appears in tetranacci sequence. 
 
@@ -175,13 +173,13 @@ When reversed we find these numbers:
                 496
 ```
 
-A pattern can be found, each time the number on the left column increases, the number on the right column increases.
+A pattern can be found, each time the number on the left column increases, the number on the right column increases.  
 This is true for 26/28 "pairs". This means that the numbers are in a deliberate sequence. And the value of "X" can be quite reliably estimated.
 
-The number on the left seems to be 1.5x~ of that on the number to the right.
+The number on the left seems to be 1.5x~ of that on the number to the right.  
 I think this is why they tried to hide some of the numbers on the right with the clay-figure.
 
-As the numbers are mirrored, it could be a reference that when bonelords talk/blink, they see the other 'blink' the numbers mirrored.
+As the numbers are mirrored, it could be a reference that when bonelords talk/blink, they see the other 'blink' the numbers mirrored.  
 There is also a mirrored room in paradox tower of 469s creator, this room contains books that *could* be the cipher for 469.
                         
 ![image](https://user-images.githubusercontent.com/25346191/159554352-c4377a0d-4478-4832-a3b9-6311265c5098.png)
@@ -216,9 +214,8 @@ klhi igbb
 
 Notice how these sections have similar spacing and # of characters as 469 
 
-From poll: "C:	663 902073 7223 67538 467 80097"
-
-Knightmare: "3478 67 90871 97664 3466 0 345!"
+From poll: "C:	663 902073 7223 67538 467 80097"  
+Knightmare: "3478 67 90871 97664 3466 0 345!"  
 
 ## Demona & honeminas formula
 
@@ -237,32 +234,21 @@ Where:
 
 - 4315 appears in the books, 431 maybe appear in facebook post. 43153 does not appear in books.
 
-- 3478 appears in the books, said by Knightmare NPC, and the name of a nostaliga bonelord. *could* translate into 'beholder'.
+- 3478 appears in the books, is said by Knightmare NPC, and is the name of a nostaliga bonelord. *could* translate into 'beholder'.
 
 - Each section (1,2,3,4,5).(1,2,3,4,5) contains five numbers. One number for each eye when 'blinking' it?
 
-What does the fifth number do, and why does it not appear in the bonelord books? 
+What does the fifth number do, and why does it not appear in the bonelord books?  
 It could be an important number for understanding 469.
 
-### It could be that the formula is not completed yet, because honeminas itself died.
+This, in itself looks like the dot product of two vectors, talking of coordinates on a 2-dimensional plane.
 
-- In the hellgate books, 3478 is followed by either 0 or 3, where 0 occurs the most.
-
-- 4315 is followed by 1.
-
-The completed formula *could* then be:
-
-- (4,3,1,5,1).(3,4,7,8,0) OR (4,3,1,5,1).(3,4,7,8,3)
-
-This, in itself looks liek the dot product of two vectors, talking of coordinates on a 2-dimensional plane. Could it be indicating a letter on the two 'jibberish' books?
-
-https://www.wolframalpha.com/input?i=%284%2C3%2C1%2C5%2C3%29.%283%2C4%2C7%2C8%2C4%29
+[Wolfram Alpha](https://www.wolframalpha.com/input?i=%284%2C3%2C1%2C5%2C3%29.%283%2C4%2C7%2C8%2C4%29) can be of help.
 
 There are more formulae in [Demona Library](https://tibia.fandom.com/wiki/Demona_Library)
 
-> Player: bonelord
-> 
-> a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a complex formula, and as such it always changes for the subjective viewer.
+> Player: bonelord  
+> a wrinkled bonelord: Our race is very old. Over the time, we have been given many different names by other races. The term bonelord sticks to us for quite a while now. In our language the name of our race is not fix but a **complex formula**, and as such it always changes for the subjective viewer.
 
 | :exclamation:  Notice!   |
 |-----------------------------------------|
@@ -276,29 +262,80 @@ Notice how these numbers are in pairs, exactly like in the facebook post.. where
 
 Notice again, how these came in pairs, with left number being bigger than the right number. (honeminas formula looks crucial)
 
+## Plotting the pairs
+
+Interesting properties of 469 can be [shown](https://colab.research.google.com/drive/1nx3eDaaP8i2hIbYQc6vEVzR72mxhlviJ?usp=sharing)
+
+Cip has again and again thrown hints that 469 comes in pairs, with left number being bigger than right number.. for example: (11, 7)
+
+- this is seen in their facebook post
+- this is seen in honeminas formula (43151 34783)
+- this is seen in the latest 469 book in secret library (74032 45331)
+
+Plotting the pairs from facebook post shows that all of them follow a pattern, otherwise the dots would not be close to the line on picture.  
+The only pair that is not plotting like the other pairs is (1280, 625), and this is the only pair where the left number ends with a 0. 
+
+> Player: 0  
+> a wrinkled bonelord: Go and wash your eyes for using this obscene number!
+
+Looking further at the 0, we also have two pairs where the right number is 447.  
+A: (706, 447)  
+B: (689, 447)
+
+706 is bigger than 689, but 706 contains a zero.
+
+This seems to suggest that multiplication is involved - which makes sense when we also consider that in honeminas formula, the digits are processed indepentendly: (4,3,1,5,3).(3,4,7,8,4)  
+
+Two other interesting pairs are:
+
+A: (652, 400)  
+B: (653, 407)
+
+When '2' -> '3', right number goes up by 7.
+
+How are these numbers 'decided'? What's the math behind them?
+
 ## My thoughts
 
-Something has to be done to numbers that comes in pairs (be it dot product of vectors as in honeminas formula or smth else)
+Something has to be done to numbers that comes in pairs (be it dot product of vectors as in honeminas formula or smth else)  
 This then could give something that indicates a letter on the jibberish books. (e.g. something along the lines of 4th row, 2nd column, 3rd letter...)
 
-We also see in 04-align.txt that the sequences found in hellgate library seems to be just one large sequence that you can puzzle together. 
-It looks like the creator of 469 and the hellgate books have scrambled some books to cause entropy, it also looks like a single number has been removed in a handful of the books - making all previous bruteforce attempts invalid.
+We also see in 04-align.txt that the sequences found in hellgate library seems to be just one large sequence that you can puzzle together.  
+It looks like the creator of 469 and the hellgate books have scrambled some books to cause entropy, it also looks like a single number has been removed in a handful of the books - making all previous bruteforce attempts invalid. (seen in example of 05-rearrange.txt)
 
 With one book (vs 72) we can more easily find patterns in 'the sequence'.
 
-We can also see what has been done to the books, some has been scrambled good, while others have just been halved and switched sides.
-
-In 04-align.txt, no book has been rearranged. But it might be worth it to create a .txt where we rearrange some books so that the natural pattern gets more visible. (reduce entropy)
+We can also see what has been done to the books - some have been scrambled good, while others have just been halved and switched sides.  
+In 04-align.txt, no book has been rearranged. In 05-rearrange.txt - I show an example on how some books are rearranged and that in some books, a single digit has been exchanged.  
+I also show how to systematically rearrange the books while ensuring that we don't change the outcome of the final long sequence.
 
 ## Testing on your own
 
-I am using [Visual Studio Code](https://code.visualstudio.com/), and then i highlight a sequence to see where other occurences appear.
-I use CTRL + F to search a sequence to highlight and lock it in while i highlight other sequences with the cursor. This allows me to keep track of what i'm doing.
+I am using [Visual Studio Code](https://code.visualstudio.com/), and then i highlight a sequence to see where other occurences appear.  
+I use CTRL + F to search a sequence to highlight and lock it in while i highlight other sequences with the cursor. This allows me to keep track of what i'm doing.  
 Any sequence on the same line within [brackets] are a sequence within that line that appears in other lines. This is used to keep track of sequences.
  
 Here i have ctrl+f a sequnce appearing in orange, and highlighted a sequence that appear in grey.
 
 ![5DxTdCi](https://user-images.githubusercontent.com/25346191/159548231-3d05ba02-2bec-4566-a2c2-8b54a63e2ddd.png)
+
+## More books on the bonelords
+
+[Beware of the Bonelords](https://tibia.fandom.com/wiki/Beware_of_the_Bonelords_(Book))  
+
+[The Bonelord Threat I](https://tibia.fandom.com/wiki/The_Bonelord_Threat_I_(Book))  
+[The Bonelord Threat II](https://tibia.fandom.com/wiki/The_Bonelord_Threat_II_(Book))  
+[The Bonelord Threat III](https://tibia.fandom.com/wiki/The_Bonelords_Threat_III_(Book))  
+
+[Black Knight Gives Up on Humans](https://tibia.fandom.com/wiki/Black_Knight_Gives_Up_on_Humans_(Book))
+
+[You Cannot Even Imagine](https://tibia.fandom.com/wiki/You_Cannot_Even_Imagine_(Book))  
+
+> It was me who assisted the great calculator to assemble the bonelords language.
+
+Notice, '*the* great calculator' is a being rather than machine.  
+The person writing that book is thought to be the mad mage, who teaches us mathmagics, who created the paradox tower which has a direct teleport to Hellgate.
+
 
 ## [Hellgate Library](https://tibia.fandom.com/wiki/Hellgate_Library)
 
@@ -388,3 +425,8 @@ In no particular order.
 ```
 51595646114145190584521765219727830464879636612527578967212778894388727857261185764217614588952196180031651288899751121615127215196805970
 ```
+
+## Hellgate matrix
+
+In Hellgate exists a 4x4 matrix which people have long thought to be related to 469, though i have found no indication for that in the lore.
+
