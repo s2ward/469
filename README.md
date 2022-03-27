@@ -11,6 +11,8 @@ Excerpt from a book in Tibia: [Beware of the Bonelords](https://tibia.fandom.com
 The main city of the current bonelords, Hellgate - contains a library holding 72 books, all in numbers. See books [here](01-books.md) where each line contains one book.  
 Here we meet A Wrinkled Bonelord, the librarian. We can talk to it to get more information.
 
+![image](https://user-images.githubusercontent.com/25346191/160277219-25d9293a-2ba6-4e29-9744-ef3d0f9ac200.png)
+
 Here I have collected all clues I think we need to solve 469.
 
 I start off by showing you what we can find in-game, and further down I will show you some of my thoughts.
@@ -428,5 +430,14 @@ In no particular order.
 
 ## Hellgate matrix
 
-In Hellgate exists a 4x4 matrix which people have long thought to be related to 469, though i have found no indication for that in the lore.
+In Hellgate exists a 4x4 matrix which people have long thought to be related to 469, though i have found no indication for that in the lore.  
+Some time ffter these speculattions by the players, cip changed the number of skulls in the matrix, altering the numbers.  
 
+![image](https://user-images.githubusercontent.com/25346191/160277253-fe60dbf6-00f9-48fc-bcea-1f3bf004c9d0.png)
+
+```
+[1, 1, 1, 1]
+[1, 3, 6, 1]
+[1, 1, 4, 1]
+[4, 5, 1, 1]
+```
