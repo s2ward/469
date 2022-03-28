@@ -8,7 +8,7 @@ Excerpt from a book in Tibia: [Beware of the Bonelords](https://tibia.fandom.com
 > The bonelords are an ancient race of underground dwelling necromancers. Although they can 'speak' like humans using some membranes, their native 'tongue' consists of a blinking code with each eye, where a blinking could mean some syllable, letter or word. It is by far the most complex speech we have ever encountered and it is almost impossible to comprehend. As far as we can tell it is not only a language but also some kind of mathematics. This combination makes it tedious even to try to understand that language.  
 > The books the bonelords write contain only numbers and the code behind them is incredibly complex. This race was one of those which were part in the creation wars and therefore its peak of civilization and power is long gone. There are rumours about still existent bonelord settlements where they try to improve their unspeakable necromantic rituals and create an army of undead.
 
-The main city of the current bonelords, Hellgate - contains a library holding 72 books, all in numbers. See books [here](01-books.md) where each line contains one book.  
+The main city of the current bonelords, Hellgate - contains a library holding 71 books, all in numbers. See books [here](01-books.md) where each line contains one book.  
 Here we meet A Wrinkled Bonelord, the librarian. We can talk to it to get more information.
 
 ![image](https://user-images.githubusercontent.com/25346191/160277219-25d9293a-2ba6-4e29-9744-ef3d0f9ac200.png)
@@ -314,7 +314,7 @@ This then could give something that indicates a letter on the jibberish books. (
 We also see in 04-align.txt that the sequences found in hellgate library seems to be just one large sequence that you can puzzle together.  
 It looks like the creator of 469 and the hellgate books have scrambled some books to cause entropy, it also looks like a single number has been removed in a handful of the books - making all previous bruteforce attempts invalid. (seen in example of 05-rearrange.txt)
 
-With one book (vs 72) we can more easily find patterns in 'the sequence'.
+With one book (vs 71) we can more easily find patterns in 'the sequence'.
 
 We can also see what has been done to the books - some have been scrambled good, while others have just been halved and switched sides.  
 In 04-align.txt, no book has been rearranged. In 05-rearrange.txt - I show an example on how some books are rearranged and that in some books, a single digit has been exchanged.  
