@@ -450,3 +450,9 @@ Some time ffter these speculattions by the players, cip changed the number of sk
 [1, 1, 4, 1]
 [4, 5, 1, 1]
 ```
+ 1-3-6-9
+ 
+ (1-3) = 4 6 9?
+ 
+![image](https://static.tibia.com/images/news/items25_goldenborder.png)
+```
