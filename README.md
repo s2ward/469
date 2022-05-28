@@ -68,7 +68,7 @@ Let me take a look at you!
 
 > Player: unpronouncable  
 > The Gate Keeper: The nearest you may come to is Zg'!kch of Cthle-ZüuKh'lkrlxchwr.  
-> Creiddylad: Zg'!kch  
+> Player: Zg'!kch  
 > The Gate Keeper: Really! No need to be rude.  
 
 > The Gate Keeper: Zgk'ch Cthlhg drch, sire.
