@@ -62,6 +62,18 @@ Let me take a look at you!
 
 653768764!
 
+## [Spirit Grounds](https://tibia.fandom.com/wiki/Spirit_Grounds) has a _potential_ insight into 469.  
+
+![image](https://user-images.githubusercontent.com/25346191/170830331-85536046-698f-4ea6-95d4-a641e11ef05f.png)
+
+> Player: unpronouncable  
+> The Gate Keeper: The nearest you may come to is Zg'!kch of Cthle-ZüuKh'lkrlxchwr.  
+> Creiddylad: Zg'!kch  
+> The Gate Keeper: Really! No need to be rude.  
+
+> The Gate Keeper: Zgk'ch Cthlhg drch, sire.
+
+
 ## [15.04.2020 poll](https://www.tibia.com/community/?subtopic=polls&page=show&questionaireid=1009)
 
 > **When the veils of shrouded truths are lifted, who can stand?**
