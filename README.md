@@ -1,9 +1,9 @@
-# 469
-
 # UPDATE
 I personally no longer believe that decryption is the way.  
 see: https://github.com/s2ward/tibia 
 But will keep this up for anyone interested.  
+
+# 469
 
 469 is a language found in Tibia. Created in 2001, it's about 21 years old and still have not been solved.  
 469 is spoken between bonelords, a blob with 5 eyes. This is performed by blinking numbers.
