@@ -414,6 +414,15 @@ Now you will see, <player>!Numbers for Exhiti...More eyes for many numbers!469!?
 
 ## [Knightmare Interview (2012)](https://web.archive.org/web/20160228205824/http://www.tibialibrary.org/en/articles/stories/26-tibias-15th-anniversary-stories-told-by-knightmare)
 
+## [Master Alexandreapt letter to Blinky (2013)](https://www.tibia.com/news/?subtopic=newsarchive&id=2292#bonelord)
+>--Automatic Translation: Start--
+>Master Alexandreapt.
+>Glad to hear you for few examples of primitive humanity there are to know to enjoy the value of books. His is life in the shin is so small that it. A matter of weakness, one of many that is.
+>However, one of mine many eyes have a hint of a tear when your humble words read me. Your ignorance forgiven and grant you with ins---- dn...nrrk693___error_error___sll ---- w-i-i-i-sdom. The gleam in my eyes most gentle carry you in the world of souls.
+>Not worry, because he all sees and says a thousand languages never alone.
+>--Automatic Translation: End--
+
+
 ## [Vandura Cave (2015)](https://tibia.fandom.com/wiki/Vandura)
 Update with Liberty Bay, and ferumbras. Along with Vandura Bonelord Cave
 
