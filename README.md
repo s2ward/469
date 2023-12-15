@@ -465,5 +465,5 @@ Some time ffter these speculattions by the players, cip changed the number of sk
 [1, 1, 1, 1]
 [1, 3, 6, 1]
 [1, 1, 4, 1]
-[4, 5, 1, 1]
+[4, 6, 1, 1]
 ```
