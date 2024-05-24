@@ -414,6 +414,13 @@ Now you will see, <player>!Numbers for Exhiti...More eyes for many numbers!469!?
 
 ## [Knightmare Interview (2012)](https://web.archive.org/web/20160228205824/http://www.tibialibrary.org/en/articles/stories/26-tibias-15th-anniversary-stories-told-by-knightmare)
 
+## [Your True Colour (2012)](https://www.tibia.com/news/?subtopic=newsarchive&id=1975&postid=36816127)
+>78567 34334 989 135 65142
+>A) Lol... u mad bro?
+>B) QOB^C
+>C) Looking for trouble, are you?
+>D) What do you want to tell me? There has to be a hidden message, a deeper meaning...
+
 ## [Master Alexandreapt letter to Blinky (2013)](https://www.tibia.com/news/?subtopic=newsarchive&id=2292#bonelord)
 >--Automatic Translation: Start--
 >Master Alexandreapt.
