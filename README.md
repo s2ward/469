@@ -1,7 +1,13 @@
 # UPDATE
 I personally no longer believe that decryption is the way.  
-see: https://github.com/s2ward/tibia 
+see: https://article.talesoftibia.com/469/1  
 But will keep this up for anyone interested.  
+
+# DNA Alignment analysis
+
+I've used Biochemistry libraries with python to create sequence analysis to better find standalone numbers.  
+It's usually used for DNA sequence research.  
+It gives some very interesting data for 469, see [alignments](./dna_alignment_analysis/alignment_analysis/markdown/)
 
 # 469
 
