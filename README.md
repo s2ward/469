@@ -473,3 +473,11 @@ Some time ffter these speculattions by the players, cip changed the number of sk
 [1, 1, 4, 1]
 [4, 6, 1, 1]
 ```
+ 
+![items25_goldenborder](https://user-images.githubusercontent.com/32110792/170127693-c7bb5a05-61b2-45cd-90fb-24630dd0657a.png)
+```
+ 1-3-6-9
+ 
+ (1-3) = 4 6 9?
+ ```
+
