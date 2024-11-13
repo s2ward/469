@@ -28,11 +28,12 @@ Here I have collected all clues I think we need to solve 469.
 
 I start off by showing you what we can find in-game, and further down I will show you some of my thoughts.
 
-- 01-books.md contains the books we find on 469.
-- 02-align.txt: aligned with repeats (by Trikki Rikki)
-- 03-align.txt: aligned in slightly longer sequences (continued by me)
-- 04-align.txt: close to being a full sequence. (50~ hours in)
-- 05-rearrange.txt we carefully start rearranging some books.
+- [00-timeline.md](00-timeline.md) 469 history in chronological order (by [elkolorado](https://github.com/elkolorado))
+- [01-books.md](01-books.md) contains the books we find on 469.
+- [02-align.txt](02-align.txt): aligned with repeats (by Trikki Rikki)
+- [03-align.txt](03-align.txt): aligned in slightly longer sequences (continued by me)
+- [04-align.txt](04-align.txt): close to being a full sequence. (50~ hours in)
+- [05-rearrange.txt](05-rearrange.txt) we carefully start rearranging some books.
 
 If you are on mobile you might want to disable line-wrapping, otherwise the .txt will look like jibberish to you.
 
