@@ -124,5 +124,9 @@ def main():
     # Write all alignments for each book into one Markdown file
     write_markdown_files(combination_data, output_dir)
 
+    # Write all alignments for each book into one JSON file
+    with open('alignment_data.json', 'w') as f:
+        json.dump(combination_data, f, indent=2)
+
 if __name__ == "__main__":
     main()
